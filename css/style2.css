@@ -1,0 +1,36 @@
+.fondonavbar{
+    background-color: #2AC0C0;
+}
+.labelNavbar{
+    color: #fff !important;
+    font-size:24px;
+    font-weight: 500;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+.navbarPosition{
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-right: 0 !important;
+    text-align: center !important;
+}
+li{
+    padding: 2px 2px;
+    width: 100% !important;
+}
+li:hover{
+background-color: #2B76AD;
+}
+
+@media (min-width: 978px) {
+    .navbarPosition {
+        display: flex !important;
+        justify-content: space-evenly !important;
+        margin-right: 0 !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+  }
+
+  .nav, .navRightLeft{
+    padding:0 !important;
+  }
