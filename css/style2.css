@@ -21,7 +21,7 @@ li:hover{
 background-color: #2B76AD;
 }
 
-@media (min-width: 978px) {
+@media (min-width: 978px)  {
     .navbarPosition {
         display: flex !important;
         justify-content: space-evenly !important;
@@ -33,4 +33,28 @@ background-color: #2B76AD;
 
   .nav, .navRightLeft{
     padding:0 !important;
+  }
+  /* Footer */
+  .footerBackgroud{
+      background-color:#0D3E86;
+  }
+  .ico{
+      color: #fff;
+      font-size:50px;
+  }
+  .icoUbication{
+      color: #fff;
+      font-size:25px;
+      margin-left: 5px;
+      margin-right: 7px;
+  }
+  .separation{
+      font-size:35px;
+      margin-left: 8px;
+  }
+  @media (max-width: 991px) and (min-width: 768px){
+    .separateResponsive {
+        display: flex !important;
+        justify-content: space-evenly !important;
+    }
   }
