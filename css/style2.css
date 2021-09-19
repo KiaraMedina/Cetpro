@@ -1,4 +1,8 @@
+
 .fondonavbar{
+    background-color: #2AC0C0;
+}
+.background{
     background-color: #2AC0C0;
 }
 .labelNavbar{
@@ -58,3 +62,26 @@ background-color: #2B76AD;
         justify-content: space-evenly !important;
     }
   }
+.spacing{
+    margin-left: 15px!important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-right: 15px !important;
+}
+.dato{
+    height: 120px;
+}
+.first{
+    position:relative;
+
+}
+.second{
+    position:absolute;
+    margin-top: -25%;
+    margin-left: 23%;
+    cursor: pointer;
+
+}
+img{
+    width: 100%;
+}
