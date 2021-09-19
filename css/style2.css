@@ -1,14 +1,16 @@
-
-.fondonavbar,.background{
+.fondonavbar,
+.background {
     background-color: #2AC0C0;
 }
 
-.labelNavbar{
+.labelNavbar {
     color: #fff !important;
     font-size: 24px;
     font-weight: 500;
     font-family: "Helvetica Neue", Helvetica, Arial;
 }
+
+
 /*Cabezera*/
 
 .header-images-nombre {
@@ -38,7 +40,8 @@
     height: 100%;
     padding-bottom: 15px;
 }
-.logo2{
+
+.logo2 {
     width: 100%;
 }
 
@@ -88,6 +91,22 @@ li:hover {
 }
 
 
+/* Conocenos */
+
+#ul-valores {
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+
+#text-ubicacion {
+    color: #fff;
+}
+
+
+/* Conocenos */
+
+
 /* Footer */
 
 .footerBackgroud {
@@ -116,27 +135,30 @@ li:hover {
         display: flex !important;
         justify-content: space-evenly !important;
     }
-  }
-.spacing{
+}
+
+.spacing {
     margin-left: 15px!important;
     margin-top: 10px !important;
     margin-bottom: 10px !important;
     margin-right: 15px !important;
 }
-.dato{
+
+.dato {
     height: 120px;
 }
-.first{
-    position:relative;
 
+.first {
+    position: relative;
 }
-.second{
-    position:absolute;
+
+.second {
+    position: absolute;
     margin-top: -25%;
     margin-left: 23%;
     cursor: pointer;
-
 }
-.img{
+
+.img {
     width: 100%;
 }
