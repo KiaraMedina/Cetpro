@@ -162,3 +162,19 @@ li:hover {
 .img {
     width: 100%;
 }
+/* carreras */
+.backgroundCarreras{
+    background-color:#9F9EF4;
+}
+.carrerasTittle{
+     background-color:#2F2E75;
+}
+.tittle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tittle2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.carreraModulo{
+    background-color:#1325CC;    /* width: 220px; */
+}
