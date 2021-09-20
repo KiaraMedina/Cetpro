@@ -119,6 +119,7 @@ li:hover {
 .ico {
     color: #fff;
     font-size: 50px;
+    margin-left: 10%;
 }
 
 .icoUbication {
@@ -243,11 +244,43 @@ a{
     color: #fff;
     padding: 4px;
     background-color: #2C8383;
-    width: 50%;
+    width: 90%;
+    margin: 0 auto;
+
+}
+.form{
+    margin-top: 30px !important;
+    width: 60%;
+    margin: 0 auto;
+
+}
+input, textarea{
+    width: 100%;
+    border-radius: 5px;
+    background-color: #fff !important;
+}
+
+@media (max-width: 967px){
+    .form{
+        margin-top: 30px !important;
+        width: 90%;
+        margin: 0 auto;
+    
+    }
+}
+@media (min-width: 800px){
+    .text-contactanos {
+        color: #fff;
+        padding: 4px;
+        background-color: #2C8383;
+        width: 40%;
+        margin: 0 auto;
+    
+    }
 }
 
 h6 {
-    margin-left: 10px;
+    margin-left: 1px;
     margin-top: 5px;
 }
 
