@@ -99,12 +99,34 @@ li:hover {
     -moz-columns: 3;
 }
 
-#text-ubicacion {
+
+/* /Conocenos */
+
+
+/* Blog */
+
+#text-ubicacion,
+#text-galeria {
+    color: #fff;
+    padding: 4px;
+}
+
+.background-blue {
+    background-color: #272F59;
     color: #fff;
 }
 
+.background-violet {
+    background-color: #54446B;
+    color: #fff;
+}
 
-/* Conocenos */
+a {
+    color: white;
+}
+
+
+/* /Blog */
 
 
 /* Footer */
