@@ -1,3 +1,6 @@
+body{
+    background-color:rgb(221, 221, 221) ;
+}
 .fondonavbar,
 .background {
     background-color: #2AC0C0;
@@ -178,3 +181,82 @@ li:hover {
 .carreraModulo{
     background-color:#1325CC;    /* width: 220px; */
 }
+.line{
+    background-color: #000000;
+    height:4px;
+}
+/* modulos */
+.margin{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+.textModule{
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+/* Blog */
+
+#text-ubicacion,
+#text-galeria {
+    color: #fff;
+    padding: 4px;
+}
+
+.background-blue {
+    background-color: #272F59;
+    color: #fff;
+}
+
+.background-violet {
+    background-color: #54446B;
+    color: #fff;
+}
+
+a {
+    color: white;
+}
+
+
+/* /Blog */
+.tit{
+    color: #ffffff;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#2a98c0;
+    padding:8px 4px !important;
+    border-radius: 15px !important;
+    margin:  0 auto !important;
+    width:250px;
+    cursor: pointer;
+}
+.tit:hover{
+    background-color: #fff;
+    color: #047eaa;
+}
+a{
+    text-decoration: none;
+}
+/* Contactanos */
+
+.text-contactanos {
+    color: #fff;
+    padding: 4px;
+    background-color: #2C8383;
+    width: 50%;
+}
+
+h6 {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.caja {
+    background: #2AC0C0;
+    color: black;
+    padding: 2px;
+    border: 1px solid #2C8383;
+}
+
+
+/* /Contactanos */
