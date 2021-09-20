@@ -129,6 +129,31 @@ a {
 /* /Blog */
 
 
+/* Contactanos */
+
+.text-contactanos {
+    color: #fff;
+    padding: 4px;
+    background-color: #2C8383;
+    width: 50%;
+}
+
+h6 {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.caja {
+    background: #2AC0C0;
+    color: black;
+    padding: 2px;
+    border: 1px solid #2C8383;
+}
+
+
+/* /Contactanos */
+
+
 /* Footer */
 
 .footerBackgroud {
